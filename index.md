@@ -48,6 +48,8 @@ Raw location and movement records are kept at least 7 days so a delayed upload c
 
 You can export your data or delete your account in the app's Account screen. Deleting the account removes the profile, the circles you own, and your locations. Purchase rows can remain with personal fields cleared for accounting. Backups age out on the host's normal backup cycle.
 
+For step-by-step instructions and the data removed or retained, see [Delete your Kinroute account](delete-account.html).
+
 ## Your choices
 
 - Pause or stop sharing, or leave a circle, inside the app.
